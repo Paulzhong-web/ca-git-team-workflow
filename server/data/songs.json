@@ -41,7 +41,10 @@
     "lyricsFile": "heavens-divide.txt"
   },
   {
-    "id": 5,
+    "id": 5
+  },
+  {
+    "id": 6,
     "title": "Cry Me a River",
     "artist": "Justin T",
     "releaseDate": "2002",
