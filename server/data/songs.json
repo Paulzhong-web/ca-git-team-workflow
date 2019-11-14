@@ -33,5 +33,11 @@
     "artist": "Maroon5",
     "releaseDate": "2019",
     "lyricsFile": "memories.txt"
+  },
+  {
+    "title": "Jaysun's Song",
+    "artist": "Wat?",
+    "releaseDate": "3000",
+    "lyricsFile": "heavens-divide.txt"
   }
 ]
