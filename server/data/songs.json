@@ -39,5 +39,12 @@
     "artist": "Wat?",
     "releaseDate": "3000",
     "lyricsFile": "heavens-divide.txt"
+  },
+  {
+    "id": 5,
+    "title": "Cry Me a River",
+    "artist": "Justin T",
+    "releaseDate": "2002",
+    "lyricsFile": "cry-me-a-river.txt"
   }
 ]
